@@ -58,7 +58,6 @@ Charts and analysis outputs are included in the Jupyter Notebook. Keep the noteb
 3. Place `HR_Analytics-4.csv` in the project folder (or update the notebook to use the dataset's public source URL).
 4. Open and run `Sales Data Analysis with Python. Project 1 (3).ipynb` in Jupyter Notebook or JupyterLab.
 
-**Before uploading:** Update the notebook's CSV path. It currently points to a file path on the author's computer, which will not work for other users. A relative path such as `pd.read_csv("HR_Analytics-4.csv")` will work when the CSV is in the repository folder.
 
 ## 8. Author
 
